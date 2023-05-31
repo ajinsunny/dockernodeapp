@@ -16,10 +16,6 @@ Project Setup
     `git clone https://github.com/ajinsunny/dockernodeapp.git
     cd dockernodeapp`
 
-2.  Install the application dependencies:
-
-    `npm install`
-
 Dockerizing the Application
 ---------------------------
 
